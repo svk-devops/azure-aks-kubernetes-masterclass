@@ -1,0 +1,1 @@
+az login --service-principal -u http://iac-sp -p @iac-sp-cert.pem --tenant 6726ea9f-344c-4609-9af9-35e8d9d1663f

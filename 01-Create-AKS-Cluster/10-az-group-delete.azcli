@@ -1,0 +1,1 @@
+az group delete --name "aks-rg1" --yes --no-wait
