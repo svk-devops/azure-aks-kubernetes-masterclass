@@ -9,6 +9,7 @@
 #*.sh
 
 # Terraform Files and Folders
+.terraform.lock.hcl
 .terraform
 *.tfstate
 *.tfstate.backup
